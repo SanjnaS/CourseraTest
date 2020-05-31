@@ -1,0 +1,25 @@
+/*all the defaults go in here*/
+
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.Name{
+	border-bottom: 2px solid black;
+	border-left: 2px solid black;
+	float: right;
+	padding: 2px 24px 2px 24px;
+	width: auto;
+	font-weight: bold;
+	font-family: Helvetica;
+
+}
+
+.Description{
+	margin: 0px;
+	clear: both;
+	overflow: hidden;
+	padding-left: 12px;
+	padding-right: 12px;
+}
