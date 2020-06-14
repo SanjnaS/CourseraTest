@@ -1,0 +1,95 @@
+body{
+	font-size: 24px;
+	color: #fff;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#heading{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	font-family: helvetica;
+	text-shadow: 2px 2px gray;
+}
+#header-nav{
+	background-color: gray;
+	border-radius: :0;
+	border:0;
+}
+#backgnd1{
+	background-color: gray;
+}
+
+.navbar-brand h1{
+	font-family: 'Oxygen', sans-serif;
+	color: black;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 2px 2px gray;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+/*.navbar-brand p{
+	color: #000;
+	text-transform: uppercase;
+	font-size: .7em;
+	margin-top:15px;
+}
+.navbar-brand p span{
+	vertical-align: middle;
+}*/
+.row {
+  width: 96%;
+  margin: 2%;
+}
+
+.row h1{
+	text-align: center;
+	color: black;
+	font-size: 28px;
+	font-family: helvetica;
+}
+
+.Desc{
+	border: 2px solid black;
+	background-color: gray;
+	width: 100%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+#section1, #section2, #section3{
+	color: black;
+}
+.backgnd{
+	background-color: white;
+}
+#nav-list {
+ /* margin-top: 10px;*/
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#collapsable-nav a{
+	font-size: 1.2em;
+}
